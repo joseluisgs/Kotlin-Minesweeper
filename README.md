@@ -42,7 +42,7 @@ You can use any character you want to represent mines and safe cells at this ste
 
 Example
 In this example, there are 10 mines on a 9x9 field. Feel free to use your own marking symbols and field configuration!
-
+```
 .X.......
 .....X..X
 ....X....
@@ -52,7 +52,7 @@ In this example, there are 10 mines on a 9x9 field. Feel free to use your own ma
 ..X......
 ..X......
 ......X..
-
+```
 
 ### Parte 2
 #### Description
@@ -71,7 +71,7 @@ You can use Random.nextInt(...) to generate random numbers.
 
 Examples
 The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
-
+```
 Example 1:
 
 How many mines do you want on the field? > 10
@@ -108,6 +108,7 @@ How many mines do you want on the field? > 20
 ..X..XX..
 .........
 .X.....X.
+```
 
 ### Parte 3
 #### Description
@@ -122,7 +123,7 @@ Check all the possibilities carefully.
 
 Examples
 The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
-
+```
 Example 1:
 
 How many mines do you want on the field? > 10
@@ -159,7 +160,7 @@ X32X1..11
 X32331.1X
 X21XX2.22
 1113X2.1X
-
+```
 
 ### Parte 4
 #### Description
@@ -190,7 +191,7 @@ When the player marks all the mines correctly without marking any empty cells, t
 
 Examples
 The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
-
+```
 Example 1: the user enters the coordinates of a cell that contains a number
 
 How many mines do you want on the field? > 5
@@ -339,6 +340,7 @@ Set/delete mines marks (x and y coordinates): > 1 1
 9│.........│
 —│—————————│
 Congratulations! You found all the mines!
+```
 
 ### Parte 5
 #### Description
@@ -389,7 +391,7 @@ X as mines
 
 Examples
 The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
-
+```
 Example 1: the user loses after exploring a cell that contains a mine
 
 How many mines do you want on the field? > 10
@@ -805,7 +807,7 @@ Set/unset mines marks or claim a cell as free: > 8 5 free
 9│1.1//////│
 —│—————————│
 Congratulations! You found all the mines!
-
+```
 
 ## Autor
 
