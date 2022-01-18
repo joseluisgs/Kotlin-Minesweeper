@@ -1,4 +1,4 @@
-# Kotlin Smart Calculator
+# Kotlin Minesweeper
 Proyecto de evaluación para el título de Kotlin Developer en Jetbrains Academy. Consiste en realiza un buscaminas.
 
 [![Kotlin](https://img.shields.io/badge/Code-Kotlin-blueviolet)](https://kotlinlang.org/)
